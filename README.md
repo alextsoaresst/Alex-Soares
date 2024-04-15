@@ -2,6 +2,7 @@
 
 - 😎 Hoje trabalho com xxx
 - 👍 Estudando Data Science
+- 😊 Pronouns: Ele/Dele
 
  <picture>
   <source
